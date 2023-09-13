@@ -1,6 +1,6 @@
 # ⚡About me:
-Hello, my name is Paola, and I'm on my way to becoming a Back-end Developer with Python. 
-I have been studying and practicing for 1 year now. 
+Hi! my name is Paola, and I'm on my way to becoming a Backend Developer with Python. 
+I have been studying and practicing for over 1 year now. 
 I'm excited for you to take a look at my profile and explore my skills.
 
 
