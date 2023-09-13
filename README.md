@@ -1,5 +1,8 @@
 # ⚡About me:
-Hello, my name is Paola, bla bla jaajjajajajaajajosksoskxojidcidjcikdckdmnck
+Hello, my name is Paola, and I'm on my way to becoming a Back-end Developer with Python. 
+I have been studying and practicing for 1 year now. 
+I'm excited for you to take a look at my profile and explore my skills.
+
 
 :hammer_and_wrench: Languages and Tools:
 <p>
@@ -14,9 +17,6 @@ Hello, my name is Paola, bla bla jaajjajajajaajajosksoskxojidcidjcikdckdmnck
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-
-
 
 
 
