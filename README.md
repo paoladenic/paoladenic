@@ -1,4 +1,4 @@
-### Hi there 👋
+### ⚡My skills
 
 <p align="center">
   <a href="https://skillicons.dev">
