@@ -1,11 +1,13 @@
-### ⚡My skills
+# ⚡About me
 
+#My Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,sqlite,django,flask,fastapi,git,docker,replit,aws,vscode" />
   </a>
 </p>
 
+#My Profile:
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
