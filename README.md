@@ -1,7 +1,9 @@
 # ⚡About me:
-Hi! my name is Paola, and I'm on my way to becoming a Backend Developer with Python. 
-I have been studying and practicing for over 1 year now. 
-I'm excited for you to take a look at my profile and explore my skills.
+Hi there! I'm Paola, and I'm on my journey to becoming a Backend Developer specialized in Python. I've been studying and practicing in this exciting field for over a year now.
+
+On my profile, you'll find a collection of projects showcasing my skills and my passion for software development. I hope you explore them and find something inspiring or interesting!
+
+I'm always open to collaborations and learning opportunities, so feel free to reach out if you have any questions or ideas to share. Thanks for visiting my profile!
 
 
 :hammer_and_wrench: Languages and Tools:
