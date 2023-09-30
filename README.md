@@ -10,6 +10,8 @@ I'm always open to collaborations and learning opportunities, so feel free to re
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,sqlite,django,flask,fastapi,firebase,git,docker,replit,gcp,vscode" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   </a>
 </p>
 
