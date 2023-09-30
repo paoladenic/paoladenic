@@ -8,8 +8,7 @@ I'm always open to collaborations and learning opportunities, so feel free to re
 
 :hammer_and_wrench: Languages and Tools:
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sqlite,django,flask,fastapi,firebase,git,docker,replit,gcp,vscode" />
+  <a">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
