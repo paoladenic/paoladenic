@@ -9,7 +9,7 @@ I'm always open to collaborations and learning opportunities, so feel free to re
 :hammer_and_wrench: Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,sqlite,django,flask,fastapi,git,docker,replit,aws,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,sqlite,django,flask,fastapi,firebase,git,docker,replit,gcp,vscode" />
   </a>
 </p>
 
