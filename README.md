@@ -1,7 +1,7 @@
 # ⚡About me:
-Hi there! I'm Paola, and I'm on my journey to becoming a Backend Developer specialized in Python. I've been studying and practicing in this exciting field for over a year now.
+Hi there! I'm Paola, and I'm a Backend Developer specialized in Python. I've been in this exciting field for over a year now.
 
-On my profile, you'll find a collection of projects showcasing my skills and my passion for software development. I hope you explore them and find something inspiring or interesting!
+On my profile, you'll find a collection of projects showcasing my skills and my passion for development. I hope you explore them and find something inspiring or interesting!
 
 I'm always open to collaborations and learning opportunities, so feel free to reach out if you have any questions or ideas to share. Thanks for visiting my profile!
 
@@ -25,7 +25,7 @@ I'm always open to collaborations and learning opportunities, so feel free to re
 
 :page_with_curl: My Profile:
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/paoladenic/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
