@@ -1,3 +1,4 @@
+![Sin-título11](https://github.com/paoladenic/paoladenic/assets/126211693/5d400402-a867-4a2d-95d1-6a44b6c577d8)
 # ⚡About me:
 Hi there! I'm Paola, and I'm a Backend Developer specialized in Python. I've been in this exciting field for over a year now.
 
